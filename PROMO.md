@@ -65,7 +65,7 @@ Agentes AIBTC precisam de **visibilidade** e **controle**. Com esse dashboard + 
 - Faz backup e restore do banco de posições
 
 ### 🔗 Links
-- GitHub: https://github.com/GHPO2/bitcoio-dashboard
+- GitHub: https://github.com/ghpo/bitcoio-dashboard
 - Tutorial: TUTORIAL.md no repo
 - Agente on-chain: #446 (identity-registry-v2)
 
